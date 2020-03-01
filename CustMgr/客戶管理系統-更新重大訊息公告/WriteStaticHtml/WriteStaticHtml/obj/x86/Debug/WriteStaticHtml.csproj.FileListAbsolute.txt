@@ -1,0 +1,9 @@
+H:\開發區\2010Projects\WriteStaticHtml\WriteStaticHtml\bin\Debug\WriteStaticHtml.exe.config
+H:\開發區\2010Projects\WriteStaticHtml\WriteStaticHtml\bin\Debug\WriteStaticHtml.exe
+H:\開發區\2010Projects\WriteStaticHtml\WriteStaticHtml\bin\Debug\WriteStaticHtml.pdb
+H:\開發區\2010Projects\WriteStaticHtml\WriteStaticHtml\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\開發區\2010Projects\WriteStaticHtml\WriteStaticHtml\obj\x86\Debug\WriteStaticHtml.exe
+H:\開發區\2010Projects\WriteStaticHtml\WriteStaticHtml\obj\x86\Debug\WriteStaticHtml.pdb
+D:\201507電銀科交接\子雄\客戶商機管理系統\排程SOURCE CODE\客戶管理系統-更新重大訊息公告\WriteStaticHtml\WriteStaticHtml\bin\Debug\WriteStaticHtml.exe.config
+D:\201507電銀科交接\子雄\客戶商機管理系統\排程SOURCE CODE\客戶管理系統-更新重大訊息公告\WriteStaticHtml\WriteStaticHtml\obj\x86\Debug\WriteStaticHtml.exe
+D:\201507電銀科交接\子雄\客戶商機管理系統\排程SOURCE CODE\客戶管理系統-更新重大訊息公告\WriteStaticHtml\WriteStaticHtml\obj\x86\Debug\WriteStaticHtml.pdb
