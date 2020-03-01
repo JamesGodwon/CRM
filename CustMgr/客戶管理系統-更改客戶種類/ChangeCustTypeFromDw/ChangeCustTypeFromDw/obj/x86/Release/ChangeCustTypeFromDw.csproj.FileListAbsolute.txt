@@ -1,0 +1,12 @@
+H:\開發區\2010Projects\ChangeCustTypeFromDw\ChangeCustTypeFromDw\bin\Release\ChangeCustTypeFromDw.exe.config
+H:\開發區\2010Projects\ChangeCustTypeFromDw\ChangeCustTypeFromDw\bin\Release\ChangeCustTypeFromDw.exe
+H:\開發區\2010Projects\ChangeCustTypeFromDw\ChangeCustTypeFromDw\bin\Release\ChangeCustTypeFromDw.pdb
+H:\開發區\2010Projects\ChangeCustTypeFromDw\ChangeCustTypeFromDw\obj\x86\Release\ResolveAssemblyReference.cache
+H:\開發區\2010Projects\ChangeCustTypeFromDw\ChangeCustTypeFromDw\obj\x86\Release\ChangeCustTypeFromDw.exe
+H:\開發區\2010Projects\ChangeCustTypeFromDw\ChangeCustTypeFromDw\obj\x86\Release\ChangeCustTypeFromDw.pdb
+D:\客戶商機管理系統\排程SOURCE CODE\客戶管理系統-更改客戶種類\ChangeCustTypeFromDw\ChangeCustTypeFromDw\bin\Release\ChangeCustTypeFromDw.exe.config
+D:\客戶商機管理系統\排程SOURCE CODE\客戶管理系統-更改客戶種類\ChangeCustTypeFromDw\ChangeCustTypeFromDw\obj\x86\Release\ChangeCustTypeFromDw.exe
+D:\客戶商機管理系統\排程SOURCE CODE\客戶管理系統-更改客戶種類\ChangeCustTypeFromDw\ChangeCustTypeFromDw\obj\x86\Release\ChangeCustTypeFromDw.pdb
+D:\客戶商機管理系統\排程SOURCE CODE\客戶管理系統-更改客戶種類\ChangeCustTypeFromDw\ChangeCustTypeFromDw\bin\Release\ChangeCustTypeFromDw.exe
+D:\客戶商機管理系統\排程SOURCE CODE\客戶管理系統-更改客戶種類\ChangeCustTypeFromDw\ChangeCustTypeFromDw\bin\Release\ChangeCustTypeFromDw.pdb
+D:\客戶商機管理系統\排程SOURCE CODE\客戶管理系統-更改客戶種類\ChangeCustTypeFromDw\ChangeCustTypeFromDw\obj\x86\Release\ResolveAssemblyReference.cache

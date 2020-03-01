@@ -1,0 +1,6 @@
+H:\開發區\2010Projects\ChangeCustTypeFromDw\ChangeCustTypeFromDw\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\開發區\2010Projects\ChangeCustTypeFromDw\ChangeCustTypeFromDw\bin\Debug\ChangeCustTypeFromDw.exe.config
+H:\開發區\2010Projects\ChangeCustTypeFromDw\ChangeCustTypeFromDw\bin\Debug\ChangeCustTypeFromDw.exe
+H:\開發區\2010Projects\ChangeCustTypeFromDw\ChangeCustTypeFromDw\bin\Debug\ChangeCustTypeFromDw.pdb
+H:\開發區\2010Projects\ChangeCustTypeFromDw\ChangeCustTypeFromDw\obj\x86\Debug\ChangeCustTypeFromDw.exe
+H:\開發區\2010Projects\ChangeCustTypeFromDw\ChangeCustTypeFromDw\obj\x86\Debug\ChangeCustTypeFromDw.pdb
