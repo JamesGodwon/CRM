@@ -1,0 +1,6 @@
+H:\開發區\2010Projects\ImportGroupData\ImportGroupData\obj\x86\Release\ResolveAssemblyReference.cache
+H:\開發區\2010Projects\ImportGroupData\ImportGroupData\bin\Release\ImportGroupData.exe.config
+H:\開發區\2010Projects\ImportGroupData\ImportGroupData\bin\Release\ImportGroupData.exe
+H:\開發區\2010Projects\ImportGroupData\ImportGroupData\bin\Release\ImportGroupData.pdb
+H:\開發區\2010Projects\ImportGroupData\ImportGroupData\obj\x86\Release\ImportGroupData.exe
+H:\開發區\2010Projects\ImportGroupData\ImportGroupData\obj\x86\Release\ImportGroupData.pdb
