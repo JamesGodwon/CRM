@@ -1,0 +1,18 @@
+H:\開發區\2010Projects\GetTEJData\GetTEJData\obj\x86\Release\ResolveAssemblyReference.cache
+H:\開發區\2010Projects\GetTEJData\GetTEJData\bin\Release\GetTEJData.exe.config
+H:\開發區\2010Projects\GetTEJData\GetTEJData\bin\Release\GetTEJData.exe
+H:\開發區\2010Projects\GetTEJData\GetTEJData\bin\Release\GetTEJData.pdb
+H:\開發區\2010Projects\GetTEJData\GetTEJData\obj\x86\Release\GetTEJData.exe
+H:\開發區\2010Projects\GetTEJData\GetTEJData\obj\x86\Release\GetTEJData.pdb
+D:\201507電銀科交接\子雄\客戶商機管理系統\排程SOURCE CODE\客戶管理系統-導入TEJ(中華信評)資料\GetTEJData\GetTEJData\bin\Release\GetTEJData.exe.config
+D:\201507電銀科交接\子雄\客戶商機管理系統\排程SOURCE CODE\客戶管理系統-導入TEJ(中華信評)資料\GetTEJData\GetTEJData\obj\x86\Release\GetTEJData.exe
+D:\201507電銀科交接\子雄\客戶商機管理系統\排程SOURCE CODE\客戶管理系統-導入TEJ(中華信評)資料\GetTEJData\GetTEJData\obj\x86\Release\GetTEJData.pdb
+D:\201507電銀科交接\子雄\客戶商機管理系統\排程SOURCE CODE\客戶管理系統-導入TEJ(中華信評)資料\GetTEJData\GetTEJData\bin\Release\GetTEJData.exe
+D:\201507電銀科交接\子雄\客戶商機管理系統\排程SOURCE CODE\客戶管理系統-導入TEJ(中華信評)資料\GetTEJData\GetTEJData\bin\Release\GetTEJData.pdb
+D:\201507電銀科交接\子雄\客戶商機管理系統\排程SOURCE CODE\客戶管理系統-導入TEJ(中華信評)資料\GetTEJData\GetTEJData\obj\x86\Release\GetTEJData.csprojResolveAssemblyReference.cache
+D:\201507電銀科交接\子雄\排程SOURCE CODE\客戶管理系統-導入TEJ(中華信評)資料\GetTEJData\GetTEJData\bin\Release\GetTEJData.exe.config
+D:\201507電銀科交接\子雄\排程SOURCE CODE\客戶管理系統-導入TEJ(中華信評)資料\GetTEJData\GetTEJData\obj\x86\Release\GetTEJData.exe
+D:\201507電銀科交接\子雄\排程SOURCE CODE\客戶管理系統-導入TEJ(中華信評)資料\GetTEJData\GetTEJData\obj\x86\Release\GetTEJData.pdb
+D:\201507電銀科交接\子雄\排程SOURCE CODE\客戶管理系統-導入TEJ(中華信評)資料\GetTEJData\GetTEJData\bin\Release\GetTEJData.exe
+D:\201507電銀科交接\子雄\排程SOURCE CODE\客戶管理系統-導入TEJ(中華信評)資料\GetTEJData\GetTEJData\bin\Release\GetTEJData.pdb
+D:\201507電銀科交接\子雄\排程SOURCE CODE\客戶管理系統-導入TEJ(中華信評)資料\GetTEJData\GetTEJData\obj\x86\Release\GetTEJData.csprojResolveAssemblyReference.cache

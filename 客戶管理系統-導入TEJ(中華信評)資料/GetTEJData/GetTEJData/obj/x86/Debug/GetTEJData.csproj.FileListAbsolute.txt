@@ -1,0 +1,6 @@
+H:\開發區\2010Projects\GetTEJData\GetTEJData\bin\Debug\CS Console Template.exe.config
+H:\開發區\2010Projects\GetTEJData\GetTEJData\bin\Debug\CS Console Template.exe
+H:\開發區\2010Projects\GetTEJData\GetTEJData\bin\Debug\CS Console Template.pdb
+H:\開發區\2010Projects\GetTEJData\GetTEJData\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\開發區\2010Projects\GetTEJData\GetTEJData\obj\x86\Debug\CS Console Template.exe
+H:\開發區\2010Projects\GetTEJData\GetTEJData\obj\x86\Debug\CS Console Template.pdb
